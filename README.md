@@ -1,0 +1,2 @@
+# QPlotCurve
+Qwt-based improvements
